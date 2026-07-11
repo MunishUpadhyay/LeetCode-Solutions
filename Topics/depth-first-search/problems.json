@@ -4,8 +4,28 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-07-11T13:09:53.023Z",
+  "updatedAt": "2026-07-11T13:10:08.269Z",
   "problems": [
+    {
+      "frontendId": "112",
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "problemName": "0112-path-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+      "folderPath": "Easy/0112-path-sum/",
+      "readmePath": "Easy/0112-path-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0112-path-sum.cpp",
+          "path": "Easy/0112-path-sum/0112-path-sum.cpp",
+          "sha": "a7bc48a29a1c1cd41d620d91f43227c952fdeb52",
+          "lastSyncedAt": "2026-07-11T13:10:08.269Z"
+        }
+      ]
+    },
     {
       "frontendId": "113",
       "title": "Path Sum II",
