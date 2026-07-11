@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-07-11T13:09:06.418Z",
+  "updatedAt": "2026-07-11T13:09:11.893Z",
   "problems": [
     {
       "frontendId": "238",
@@ -43,6 +43,26 @@
           "path": "Easy/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "ca8ff51905a0298dfa78dbb61ca84b3e0172943a",
           "lastSyncedAt": "2026-07-11T13:09:06.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "Medium/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "Medium/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "Medium/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "a2d95185ff2ba5111108d4922afd32525f639e6c",
+          "lastSyncedAt": "2026-07-11T13:09:11.893Z"
         }
       ]
     },
