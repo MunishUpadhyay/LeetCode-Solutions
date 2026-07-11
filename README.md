@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 9 | 11 | 0 |
+| 21 | 9 | 12 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 17 |
+| 2 days | 9 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-18 | 2 |
 | 2026-06-20 | 1 |
 | 2026-06-21 | 1 |
 | 2026-06-22 | 2 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-07-08 | 1 |
 | 2026-07-09 | 1 |
 | 2026-07-11 | 1 |
+| 2026-07-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Greedy | 9 | 45% |
-| Sorting | 6 | 30% |
-| Math | 5 | 25% |
-| String | 5 | 25% |
-| Hash Table | 4 | 20% |
-| Prefix Sum | 4 | 20% |
+| Array | 12 | 57% |
+| Greedy | 9 | 43% |
+| Sorting | 6 | 29% |
+| Math | 5 | 24% |
+| String | 5 | 24% |
+| Hash Table | 4 | 19% |
+| Prefix Sum | 4 | 19% |
+| Backtracking | 2 | 10% |
 | Binary Tree | 2 | 10% |
 | Counting | 2 | 10% |
-| Depth-First Search | 2 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
-| [Backtracking](Topics/backtracking/) | 1 |
+| [Array](Topics/array/) | 12 |
+| [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
