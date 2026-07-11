@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-11T13:09:38.740Z",
+  "updatedAt": "2026-07-11T13:10:18.422Z",
   "problems": [
     {
       "frontendId": "500",
@@ -23,6 +23,26 @@
           "path": "Easy/0500-keyboard-row/0500-keyboard-row.cpp",
           "sha": "167dba365c15b5a266a855daeacc0d0627735b98",
           "lastSyncedAt": "2026-07-11T13:09:38.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "Easy/1189-maximum-number-of-balloons/",
+      "readmePath": "Easy/1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1189-maximum-number-of-balloons.cpp",
+          "path": "Easy/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
+          "sha": "e8bbe3bc548c371d3cdf9b81f4baa4d6f197d58e",
+          "lastSyncedAt": "2026-07-11T13:10:18.422Z"
         }
       ]
     },
