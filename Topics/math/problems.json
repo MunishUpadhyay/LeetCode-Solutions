@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-11T13:08:26.012Z",
+  "updatedAt": "2026-07-11T13:10:52.245Z",
   "problems": [
     {
       "frontendId": "1344",
@@ -23,6 +23,26 @@
           "path": "1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.cpp",
           "sha": "cce8200a763281787f98e4bdb404067f9a8bb804",
           "lastSyncedAt": "2026-07-11T13:08:07.135Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1753",
+      "title": "Maximum Score From Removing Stones",
+      "slug": "maximum-score-from-removing-stones",
+      "problemName": "1753-maximum-score-from-removing-stones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-stones/",
+      "folderPath": "Medium/1753-maximum-score-from-removing-stones/",
+      "readmePath": "Medium/1753-maximum-score-from-removing-stones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1753-maximum-score-from-removing-stones.cpp",
+          "path": "Medium/1753-maximum-score-from-removing-stones/1753-maximum-score-from-removing-stones.cpp",
+          "sha": "d7a20e110cdb5645ee2eb23c5be4cc643e76c07d",
+          "lastSyncedAt": "2026-07-11T13:10:52.245Z"
         }
       ]
     },
