@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:10:29.301Z",
+  "updatedAt": "2026-07-11T13:10:39.451Z",
   "problems": [
     {
       "frontendId": "238",
@@ -23,6 +23,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
           "lastSyncedAt": "2026-07-11T13:07:57.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "324",
+      "title": "Wiggle Sort II",
+      "slug": "wiggle-sort-ii",
+      "problemName": "0324-wiggle-sort-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/wiggle-sort-ii/",
+      "folderPath": "Medium/0324-wiggle-sort-ii/",
+      "readmePath": "Medium/0324-wiggle-sort-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0324-wiggle-sort-ii.cpp",
+          "path": "Medium/0324-wiggle-sort-ii/0324-wiggle-sort-ii.cpp",
+          "sha": "d7e7d4e81826ac0cb6be7db1a4e252cf69e5a86e",
+          "lastSyncedAt": "2026-07-11T13:10:39.451Z"
         }
       ]
     },
