@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-11T13:09:11.893Z",
+  "updatedAt": "2026-07-11T13:09:38.740Z",
   "problems": [
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "Easy/0500-keyboard-row/",
+      "readmePath": "Easy/0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0500-keyboard-row.cpp",
+          "path": "Easy/0500-keyboard-row/0500-keyboard-row.cpp",
+          "sha": "167dba365c15b5a266a855daeacc0d0627735b98",
+          "lastSyncedAt": "2026-07-11T13:09:38.740Z"
+        }
+      ]
+    },
     {
       "frontendId": "705",
       "title": "Design HashSet",
