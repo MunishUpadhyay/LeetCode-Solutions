@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:08:36.041Z",
+  "updatedAt": "2026-07-11T13:08:47.531Z",
   "problems": [
     {
       "frontendId": "238",
@@ -23,6 +23,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
           "lastSyncedAt": "2026-07-11T13:07:57.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "705",
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "problemName": "0705-design-hashset",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/design-hashset/",
+      "folderPath": "Easy/0705-design-hashset/",
+      "readmePath": "Easy/0705-design-hashset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0705-design-hashset.cpp",
+          "path": "Easy/0705-design-hashset/0705-design-hashset.cpp",
+          "sha": "377a54451ee4d13de6327949951adbc0a99b1ca7",
+          "lastSyncedAt": "2026-07-11T13:08:47.531Z"
         }
       ]
     },
