@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:11:27.182Z",
+  "updatedAt": "2026-07-11T13:15:09.191Z",
   "problems": [
     {
       "frontendId": "179",
@@ -33,8 +33,8 @@
       "problemName": "0238-product-of-array-except-self",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
-      "folderPath": "0238-product-of-array-except-self/",
-      "readmePath": "0238-product-of-array-except-self/README.md",
+      "folderPath": "Medium/0238-product-of-array-except-self/",
+      "readmePath": "Medium/0238-product-of-array-except-self/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -42,7 +42,7 @@
           "filename": "0238-product-of-array-except-self.cpp",
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
-          "lastSyncedAt": "2026-07-11T13:07:57.809Z"
+          "lastSyncedAt": "2026-07-11T13:15:09.191Z"
         }
       ]
     },
