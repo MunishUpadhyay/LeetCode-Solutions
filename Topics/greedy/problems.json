@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-11T13:11:11.926Z",
+  "updatedAt": "2026-07-11T13:11:18.654Z",
   "problems": [
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "Medium/0179-largest-number/",
+      "readmePath": "Medium/0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0179-largest-number.cpp",
+          "path": "Medium/0179-largest-number/0179-largest-number.cpp",
+          "sha": "d145ebc2cf38da35fe5b322e2e2f32216e7d0f2c",
+          "lastSyncedAt": "2026-07-11T13:11:18.654Z"
+        }
+      ]
+    },
     {
       "frontendId": "324",
       "title": "Wiggle Sort II",
