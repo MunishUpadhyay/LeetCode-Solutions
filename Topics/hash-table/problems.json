@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-11T13:08:47.531Z",
+  "updatedAt": "2026-07-11T13:09:11.893Z",
   "problems": [
     {
       "frontendId": "705",
@@ -23,6 +23,26 @@
           "path": "Easy/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "377a54451ee4d13de6327949951adbc0a99b1ca7",
           "lastSyncedAt": "2026-07-11T13:08:47.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "Medium/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "Medium/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "Medium/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "a2d95185ff2ba5111108d4922afd32525f639e6c",
+          "lastSyncedAt": "2026-07-11T13:09:11.893Z"
         }
       ]
     }
