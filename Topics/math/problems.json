@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-11T13:15:18.627Z",
+  "updatedAt": "2026-07-11T13:15:26.083Z",
   "problems": [
     {
       "frontendId": "1323",
@@ -82,7 +82,7 @@
           "filename": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
           "path": "Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.cpp",
           "sha": "b00ef1e715962787384d88d9f7a15374e60b7967",
-          "lastSyncedAt": "2026-07-11T13:08:26.012Z"
+          "lastSyncedAt": "2026-07-11T13:15:26.083Z"
         }
       ]
     },
