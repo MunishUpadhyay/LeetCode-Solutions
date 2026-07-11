@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-11T13:09:11.893Z",
+  "updatedAt": "2026-07-11T13:10:18.422Z",
   "problems": [
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "Easy/1189-maximum-number-of-balloons/",
+      "readmePath": "Easy/1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1189-maximum-number-of-balloons.cpp",
+          "path": "Easy/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
+          "sha": "e8bbe3bc548c371d3cdf9b81f4baa4d6f197d58e",
+          "lastSyncedAt": "2026-07-11T13:10:18.422Z"
+        }
+      ]
+    },
     {
       "frontendId": "3737",
       "title": "Count Subarrays With Majority Element I",
