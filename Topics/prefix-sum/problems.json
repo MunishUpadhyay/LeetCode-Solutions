@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-07-11T13:15:18.627Z",
+  "updatedAt": "2026-07-11T19:30:56.653Z",
   "problems": [
     {
       "frontendId": "238",
@@ -20,9 +20,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0238-product-of-array-except-self.cpp",
-          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
+          "path": "Medium/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
-          "lastSyncedAt": "2026-07-11T13:15:09.191Z"
+          "lastSyncedAt": "2026-07-11T19:30:56.653Z"
         }
       ]
     },
@@ -80,9 +80,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
-          "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "path": "Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "d5092385e673d606f7e04fb5a2e49fca2374295d",
-          "lastSyncedAt": "2026-07-11T13:15:18.627Z"
+          "lastSyncedAt": "2026-07-11T19:30:56.653Z"
         }
       ]
     }

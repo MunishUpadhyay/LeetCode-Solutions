@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-11T13:15:18.627Z",
+  "updatedAt": "2026-07-11T19:30:56.653Z",
   "problems": [
     {
       "frontendId": "179",
@@ -100,9 +100,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
-          "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
+          "path": "Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.cpp",
           "sha": "d5092385e673d606f7e04fb5a2e49fca2374295d",
-          "lastSyncedAt": "2026-07-11T13:15:18.627Z"
+          "lastSyncedAt": "2026-07-11T19:30:56.653Z"
         }
       ]
     }

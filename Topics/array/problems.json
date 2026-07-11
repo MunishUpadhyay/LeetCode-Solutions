@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T19:27:16.405Z",
+  "updatedAt": "2026-07-11T19:30:56.653Z",
   "problems": [
     {
       "frontendId": "40",
@@ -60,9 +60,9 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0238-product-of-array-except-self.cpp",
-          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
+          "path": "Medium/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
-          "lastSyncedAt": "2026-07-11T13:15:09.191Z"
+          "lastSyncedAt": "2026-07-11T19:30:56.653Z"
         }
       ]
     },
