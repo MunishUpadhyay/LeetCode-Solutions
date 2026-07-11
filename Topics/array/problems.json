@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:15:09.191Z",
+  "updatedAt": "2026-07-11T19:27:16.405Z",
   "problems": [
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "Medium/0040-combination-sum-ii/",
+      "readmePath": "Medium/0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0040-combination-sum-ii.cpp",
+          "path": "Medium/0040-combination-sum-ii/0040-combination-sum-ii.cpp",
+          "sha": "7f138c40dd4afc1c39f4757f404e36fdf75090bb",
+          "lastSyncedAt": "2026-07-11T19:27:16.405Z"
+        }
+      ]
+    },
     {
       "frontendId": "179",
       "title": "Largest Number",
