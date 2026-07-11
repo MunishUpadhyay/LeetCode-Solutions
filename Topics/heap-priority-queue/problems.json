@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-07-11T13:10:52.245Z",
+  "updatedAt": "2026-07-11T13:11:01.356Z",
   "problems": [
     {
       "frontendId": "1753",
@@ -23,6 +23,26 @@
           "path": "Medium/1753-maximum-score-from-removing-stones/1753-maximum-score-from-removing-stones.cpp",
           "sha": "d7a20e110cdb5645ee2eb23c5be4cc643e76c07d",
           "lastSyncedAt": "2026-07-11T13:10:52.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2335",
+      "title": "Minimum Amount of Time to Fill Cups",
+      "slug": "minimum-amount-of-time-to-fill-cups",
+      "problemName": "2335-minimum-amount-of-time-to-fill-cups",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+      "folderPath": "Easy/2335-minimum-amount-of-time-to-fill-cups/",
+      "readmePath": "Easy/2335-minimum-amount-of-time-to-fill-cups/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2335-minimum-amount-of-time-to-fill-cups.cpp",
+          "path": "Easy/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.cpp",
+          "sha": "51ced3040aeb62ab964b93a9e87a173b4e02b89f",
+          "lastSyncedAt": "2026-07-11T13:11:01.356Z"
         }
       ]
     }
