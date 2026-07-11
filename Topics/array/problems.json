@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:11:18.654Z",
+  "updatedAt": "2026-07-11T13:11:27.182Z",
   "problems": [
     {
       "frontendId": "179",
@@ -103,6 +103,26 @@
           "path": "Easy/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "377a54451ee4d13de6327949951adbc0a99b1ca7",
           "lastSyncedAt": "2026-07-11T13:08:47.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "Medium/0881-boats-to-save-people/",
+      "readmePath": "Medium/0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0881-boats-to-save-people.cpp",
+          "path": "Medium/0881-boats-to-save-people/0881-boats-to-save-people.cpp",
+          "sha": "9977b3795f49205103d9433e448c81482850fc1c",
+          "lastSyncedAt": "2026-07-11T13:11:27.182Z"
         }
       ]
     },
