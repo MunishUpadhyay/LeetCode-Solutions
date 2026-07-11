@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-11T13:09:38.740Z",
+  "updatedAt": "2026-07-11T13:10:29.301Z",
   "problems": [
     {
       "frontendId": "238",
@@ -83,6 +83,26 @@
           "path": "Easy/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "ca8ff51905a0298dfa78dbb61ca84b3e0172943a",
           "lastSyncedAt": "2026-07-11T13:09:06.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "Medium/1833-maximum-ice-cream-bars/",
+      "readmePath": "Medium/1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1833-maximum-ice-cream-bars.cpp",
+          "path": "Medium/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.cpp",
+          "sha": "4748e4aabbbd9f5a54d1d928d47925039e3d3a20",
+          "lastSyncedAt": "2026-07-11T13:10:29.301Z"
         }
       ]
     },
