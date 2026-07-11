@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-11T13:10:39.451Z",
+  "updatedAt": "2026-07-11T13:10:52.245Z",
   "problems": [
     {
       "frontendId": "324",
@@ -23,6 +23,26 @@
           "path": "Medium/0324-wiggle-sort-ii/0324-wiggle-sort-ii.cpp",
           "sha": "d7e7d4e81826ac0cb6be7db1a4e252cf69e5a86e",
           "lastSyncedAt": "2026-07-11T13:10:39.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1753",
+      "title": "Maximum Score From Removing Stones",
+      "slug": "maximum-score-from-removing-stones",
+      "problemName": "1753-maximum-score-from-removing-stones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-removing-stones/",
+      "folderPath": "Medium/1753-maximum-score-from-removing-stones/",
+      "readmePath": "Medium/1753-maximum-score-from-removing-stones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1753-maximum-score-from-removing-stones.cpp",
+          "path": "Medium/1753-maximum-score-from-removing-stones/1753-maximum-score-from-removing-stones.cpp",
+          "sha": "d7a20e110cdb5645ee2eb23c5be4cc643e76c07d",
+          "lastSyncedAt": "2026-07-11T13:10:52.245Z"
         }
       ]
     },
