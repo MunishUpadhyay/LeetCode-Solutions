@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-11T13:10:52.245Z",
+  "updatedAt": "2026-07-11T13:11:11.926Z",
   "problems": [
+    {
+      "frontendId": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "problemName": "1323-maximum-69-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-69-number/",
+      "folderPath": "Easy/1323-maximum-69-number/",
+      "readmePath": "Easy/1323-maximum-69-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1323-maximum-69-number.cpp",
+          "path": "Easy/1323-maximum-69-number/1323-maximum-69-number.cpp",
+          "sha": "16c0efa80f844fa02b0b85ba6db079f3e093ac56",
+          "lastSyncedAt": "2026-07-11T13:11:11.926Z"
+        }
+      ]
+    },
     {
       "frontendId": "1344",
       "title": "Angle Between Hands of a Clock",
