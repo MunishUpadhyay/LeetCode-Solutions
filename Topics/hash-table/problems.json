@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-11T13:10:18.422Z",
+  "updatedAt": "2026-07-12T20:31:44.868Z",
   "problems": [
+    {
+      "frontendId": "37",
+      "title": "Sudoku Solver",
+      "slug": "sudoku-solver",
+      "problemName": "0037-sudoku-solver",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
+      "folderPath": "Hard/0037-sudoku-solver/",
+      "readmePath": "Hard/0037-sudoku-solver/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0037-sudoku-solver.cpp",
+          "path": "Hard/0037-sudoku-solver/0037-sudoku-solver.cpp",
+          "sha": "6edff63a01cca7ce9c6e4526fd893b66ede67ff0",
+          "lastSyncedAt": "2026-07-12T20:31:44.868Z"
+        }
+      ]
+    },
     {
       "frontendId": "500",
       "title": "Keyboard Row",
