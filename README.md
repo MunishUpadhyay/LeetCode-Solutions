@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 9 | 13 | 0 |
+| 23 | 9 | 13 | 1 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-07-08 | 1 |
 | 2026-07-09 | 1 |
 | 2026-07-11 | 1 |
-| 2026-07-12 | 2 |
+| 2026-07-12 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 59% |
-| Greedy | 9 | 41% |
-| Sorting | 6 | 27% |
-| Math | 5 | 23% |
-| String | 5 | 23% |
-| Hash Table | 4 | 18% |
-| Prefix Sum | 4 | 18% |
-| Backtracking | 3 | 14% |
+| Array | 14 | 61% |
+| Greedy | 9 | 39% |
+| Sorting | 6 | 26% |
+| Math | 5 | 22% |
+| String | 5 | 22% |
+| Backtracking | 4 | 17% |
+| Hash Table | 4 | 17% |
+| Prefix Sum | 4 | 17% |
 | Binary Tree | 2 | 9% |
 | Counting | 2 | 9% |
 
@@ -49,8 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
-| [Backtracking](Topics/backtracking/) | 3 |
+| [Array](Topics/array/) | 14 |
+| [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 2 |
