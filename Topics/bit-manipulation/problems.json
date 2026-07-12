@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-07-12T16:24:55.255Z",
+  "problems": [
+    {
+      "frontendId": "90",
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "problemName": "0090-subsets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets-ii/",
+      "folderPath": "Medium/0090-subsets-ii/",
+      "readmePath": "Medium/0090-subsets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0090-subsets-ii.cpp",
+          "path": "Medium/0090-subsets-ii/0090-subsets-ii.cpp",
+          "sha": "7b4b92a390525862cd149248d27ea9a13aadc295",
+          "lastSyncedAt": "2026-07-12T16:24:55.255Z"
+        }
+      ]
+    }
+  ]
+}
