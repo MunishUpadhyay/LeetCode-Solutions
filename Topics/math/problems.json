@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-11T19:30:56.653Z",
+  "updatedAt": "2026-07-13T21:03:42.509Z",
   "problems": [
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "Hard/0060-permutation-sequence/",
+      "readmePath": "Hard/0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0060-permutation-sequence.cpp",
+          "path": "Hard/0060-permutation-sequence/0060-permutation-sequence.cpp",
+          "sha": "b425d9a57b0b2a4745bbc242eb14ca0ad3fb9c0b",
+          "lastSyncedAt": "2026-07-13T21:03:42.509Z"
+        }
+      ]
+    },
     {
       "frontendId": "1323",
       "title": "Maximum 69 Number",
