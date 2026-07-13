@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-11T13:11:37.034Z",
+  "updatedAt": "2026-07-13T19:24:10.104Z",
   "problems": [
     {
       "frontendId": "179",
@@ -43,6 +43,26 @@
           "path": "Medium/0324-wiggle-sort-ii/0324-wiggle-sort-ii.cpp",
           "sha": "d7e7d4e81826ac0cb6be7db1a4e252cf69e5a86e",
           "lastSyncedAt": "2026-07-11T13:10:39.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "330",
+      "title": "Patching Array",
+      "slug": "patching-array",
+      "problemName": "0330-patching-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/patching-array/",
+      "folderPath": "Hard/0330-patching-array/",
+      "readmePath": "Hard/0330-patching-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0330-patching-array.cpp",
+          "path": "Hard/0330-patching-array/0330-patching-array.cpp",
+          "sha": "5373e16ad7a1623a03f6a37ae6b538043336adca",
+          "lastSyncedAt": "2026-07-13T19:24:10.104Z"
         }
       ]
     },
