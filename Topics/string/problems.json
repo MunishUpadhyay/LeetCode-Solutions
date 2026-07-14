@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-11T19:30:56.653Z",
+  "updatedAt": "2026-07-14T19:45:46.255Z",
   "problems": [
     {
       "frontendId": "179",
@@ -83,6 +83,26 @@
           "path": "Easy/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
           "sha": "e8bbe3bc548c371d3cdf9b81f4baa4d6f197d58e",
           "lastSyncedAt": "2026-07-11T13:10:18.422Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3121",
+      "title": "Count the Number of Special Characters II",
+      "slug": "count-the-number-of-special-characters-ii",
+      "problemName": "3121-count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+      "folderPath": "Medium/3121-count-the-number-of-special-characters-ii/",
+      "readmePath": "Medium/3121-count-the-number-of-special-characters-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3121-count-the-number-of-special-characters-ii.cpp",
+          "path": "Medium/3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.cpp",
+          "sha": "dd358a84f0d50296c7b9a8d8184db1eb0dcd11c9",
+          "lastSyncedAt": "2026-07-14T19:45:46.255Z"
         }
       ]
     },
