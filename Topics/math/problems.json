@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-13T21:03:42.509Z",
+  "updatedAt": "2026-07-15T19:54:00.680Z",
   "problems": [
     {
       "frontendId": "60",
@@ -83,6 +83,26 @@
           "path": "Medium/1753-maximum-score-from-removing-stones/1753-maximum-score-from-removing-stones.cpp",
           "sha": "d7a20e110cdb5645ee2eb23c5be4cc643e76c07d",
           "lastSyncedAt": "2026-07-11T13:10:52.245Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "Easy/3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "Easy/3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3658-gcd-of-odd-and-even-sums.cpp",
+          "path": "Easy/3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
+          "sha": "bbc85384cd03410ba370d2c283c6d525a56134c1",
+          "lastSyncedAt": "2026-07-15T19:54:00.680Z"
         }
       ]
     },
