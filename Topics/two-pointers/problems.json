@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-11T13:11:37.034Z",
+  "updatedAt": "2026-07-16T20:13:19.451Z",
   "problems": [
     {
       "frontendId": "680",
@@ -43,6 +43,26 @@
           "path": "Medium/0881-boats-to-save-people/0881-boats-to-save-people.cpp",
           "sha": "9977b3795f49205103d9433e448c81482850fc1c",
           "lastSyncedAt": "2026-07-11T13:11:27.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2592",
+      "title": "Maximize Greatness of an Array",
+      "slug": "maximize-greatness-of-an-array",
+      "problemName": "2592-maximize-greatness-of-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-greatness-of-an-array/",
+      "folderPath": "Medium/2592-maximize-greatness-of-an-array/",
+      "readmePath": "Medium/2592-maximize-greatness-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2592-maximize-greatness-of-an-array.cpp",
+          "path": "Medium/2592-maximize-greatness-of-an-array/2592-maximize-greatness-of-an-array.cpp",
+          "sha": "eff5338dd36ce2cac70680f91e9e209a1baee39e",
+          "lastSyncedAt": "2026-07-16T20:13:19.451Z"
         }
       ]
     }
