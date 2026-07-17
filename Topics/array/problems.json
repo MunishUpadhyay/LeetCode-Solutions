@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-16T20:13:19.451Z",
+  "updatedAt": "2026-07-17T16:48:16.114Z",
   "problems": [
     {
       "frontendId": "37",
@@ -343,6 +343,26 @@
           "path": "Medium/2592-maximize-greatness-of-an-array/2592-maximize-greatness-of-an-array.cpp",
           "sha": "eff5338dd36ce2cac70680f91e9e209a1baee39e",
           "lastSyncedAt": "2026-07-16T20:13:19.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "Hard/3312-sorted-gcd-pair-queries/",
+      "readmePath": "Hard/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "Hard/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "24e175b127033dd24b6f8a29ce46af8d117a3a17",
+          "lastSyncedAt": "2026-07-17T16:48:16.114Z"
         }
       ]
     },
