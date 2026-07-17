@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-14T19:45:46.255Z",
+  "updatedAt": "2026-07-17T16:48:16.114Z",
   "problems": [
     {
       "frontendId": "37",
@@ -103,6 +103,26 @@
           "path": "Medium/3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.cpp",
           "sha": "dd358a84f0d50296c7b9a8d8184db1eb0dcd11c9",
           "lastSyncedAt": "2026-07-14T19:45:46.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "Hard/3312-sorted-gcd-pair-queries/",
+      "readmePath": "Hard/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "Hard/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "24e175b127033dd24b6f8a29ce46af8d117a3a17",
+          "lastSyncedAt": "2026-07-17T16:48:16.114Z"
         }
       ]
     },
