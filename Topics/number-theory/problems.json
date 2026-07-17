@@ -4,8 +4,28 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-07-15T19:54:00.680Z",
+  "updatedAt": "2026-07-17T16:48:16.114Z",
   "problems": [
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "Hard/3312-sorted-gcd-pair-queries/",
+      "readmePath": "Hard/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "Hard/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "24e175b127033dd24b6f8a29ce46af8d117a3a17",
+          "lastSyncedAt": "2026-07-17T16:48:16.114Z"
+        }
+      ]
+    },
     {
       "frontendId": "3658",
       "title": "GCD of Odd and Even Sums",
