@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-07-11T19:30:56.653Z",
+  "updatedAt": "2026-07-17T16:48:16.114Z",
   "problems": [
     {
       "frontendId": "238",
@@ -43,6 +43,26 @@
           "path": "Easy/1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "ca8ff51905a0298dfa78dbb61ca84b3e0172943a",
           "lastSyncedAt": "2026-07-11T13:09:06.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "Hard/3312-sorted-gcd-pair-queries/",
+      "readmePath": "Hard/3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3312-sorted-gcd-pair-queries.cpp",
+          "path": "Hard/3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.cpp",
+          "sha": "24e175b127033dd24b6f8a29ce46af8d117a3a17",
+          "lastSyncedAt": "2026-07-17T16:48:16.114Z"
         }
       ]
     },
