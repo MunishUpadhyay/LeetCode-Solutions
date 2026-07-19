@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-17T16:48:16.114Z",
+  "updatedAt": "2026-07-19T22:14:41.498Z",
   "problems": [
+    {
+      "frontendId": "945",
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "problemName": "0945-minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-increment-to-make-array-unique/",
+      "folderPath": "Medium/0945-minimum-increment-to-make-array-unique/",
+      "readmePath": "Medium/0945-minimum-increment-to-make-array-unique/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0945-minimum-increment-to-make-array-unique.cpp",
+          "path": "Medium/0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.cpp",
+          "sha": "ef78c65a2a3df602fdb3bbcd13938d2204285e29",
+          "lastSyncedAt": "2026-07-19T22:14:41.498Z"
+        }
+      ]
+    },
     {
       "frontendId": "1189",
       "title": "Maximum Number of Balloons",
