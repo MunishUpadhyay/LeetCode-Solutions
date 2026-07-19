@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-18T17:51:23.250Z",
+  "updatedAt": "2026-07-19T22:14:41.498Z",
   "problems": [
     {
       "frontendId": "37",
@@ -263,6 +263,26 @@
           "path": "Medium/0881-boats-to-save-people/0881-boats-to-save-people.cpp",
           "sha": "9977b3795f49205103d9433e448c81482850fc1c",
           "lastSyncedAt": "2026-07-11T13:11:27.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "945",
+      "title": "Minimum Increment to Make Array Unique",
+      "slug": "minimum-increment-to-make-array-unique",
+      "problemName": "0945-minimum-increment-to-make-array-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-increment-to-make-array-unique/",
+      "folderPath": "Medium/0945-minimum-increment-to-make-array-unique/",
+      "readmePath": "Medium/0945-minimum-increment-to-make-array-unique/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0945-minimum-increment-to-make-array-unique.cpp",
+          "path": "Medium/0945-minimum-increment-to-make-array-unique/0945-minimum-increment-to-make-array-unique.cpp",
+          "sha": "ef78c65a2a3df602fdb3bbcd13938d2204285e29",
+          "lastSyncedAt": "2026-07-19T22:14:41.498Z"
         }
       ]
     },
