@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-07-13T10:03:33.263Z",
+  "updatedAt": "2026-07-20T21:09:38.548Z",
   "problems": [
     {
       "frontendId": "37",
@@ -143,6 +143,26 @@
           "path": "Medium/0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
           "sha": "656a0a5caf781f054bfe253d611f88b8523eeeaa",
           "lastSyncedAt": "2026-07-13T10:03:33.263Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "494",
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "problemName": "0494-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+      "folderPath": "Medium/0494-target-sum/",
+      "readmePath": "Medium/0494-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0494-target-sum.cpp",
+          "path": "Medium/0494-target-sum/0494-target-sum.cpp",
+          "sha": "5ab030f42822c904a12652dc723d49c5722e669d",
+          "lastSyncedAt": "2026-07-20T21:09:38.548Z"
         }
       ]
     }
