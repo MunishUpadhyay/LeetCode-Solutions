@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-14T19:45:46.255Z",
+  "updatedAt": "2026-07-21T20:53:22.333Z",
   "problems": [
     {
       "frontendId": "179",
@@ -23,6 +23,26 @@
           "path": "Medium/0179-largest-number/0179-largest-number.cpp",
           "sha": "d145ebc2cf38da35fe5b322e2e2f32216e7d0f2c",
           "lastSyncedAt": "2026-07-11T13:11:18.654Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "Hard/0224-basic-calculator/",
+      "readmePath": "Hard/0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0224-basic-calculator.cpp",
+          "path": "Hard/0224-basic-calculator/0224-basic-calculator.cpp",
+          "sha": "808dbf05f1ed8cba415476ebf097c9c1fd7aca9d",
+          "lastSyncedAt": "2026-07-21T20:53:22.333Z"
         }
       ]
     },
