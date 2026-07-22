@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-22T10:44:41.804Z",
+  "updatedAt": "2026-07-22T18:55:36.143Z",
   "problems": [
     {
       "frontendId": "37",
@@ -143,6 +143,26 @@
           "path": "Medium/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "3c6e9909ed721c30a8a6085bc147df58684b3889",
           "lastSyncedAt": "2026-07-11T19:30:56.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "Medium/0322-coin-change/",
+      "readmePath": "Medium/0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0322-coin-change.cpp",
+          "path": "Medium/0322-coin-change/0322-coin-change.cpp",
+          "sha": "e883aeebf61edb1a9c589943341a97611884d79d",
+          "lastSyncedAt": "2026-07-22T18:55:36.143Z"
         }
       ]
     },
