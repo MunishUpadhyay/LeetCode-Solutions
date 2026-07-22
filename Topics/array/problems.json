@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-20T21:09:38.548Z",
+  "updatedAt": "2026-07-22T10:44:41.804Z",
   "problems": [
     {
       "frontendId": "37",
@@ -243,6 +243,26 @@
           "path": "Easy/0500-keyboard-row/0500-keyboard-row.cpp",
           "sha": "167dba365c15b5a266a855daeacc0d0627735b98",
           "lastSyncedAt": "2026-07-11T13:09:38.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "Medium/0518-coin-change-ii/",
+      "readmePath": "Medium/0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0518-coin-change-ii.cpp",
+          "path": "Medium/0518-coin-change-ii/0518-coin-change-ii.cpp",
+          "sha": "9deb3ae8414b4ac94f20bba364f8a906954d2ca9",
+          "lastSyncedAt": "2026-07-22T10:44:41.804Z"
         }
       ]
     },
