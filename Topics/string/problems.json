@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-21T20:53:22.333Z",
+  "updatedAt": "2026-07-23T18:42:07.439Z",
   "problems": [
     {
       "frontendId": "179",
@@ -83,6 +83,26 @@
           "path": "Easy/0680-valid-palindrome-ii/0680-valid-palindrome-ii.cpp",
           "sha": "10960b80624a1732b60fe4cb73ab11c345437b45",
           "lastSyncedAt": "2026-07-11T13:11:37.034Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "Medium/1143-longest-common-subsequence/",
+      "readmePath": "Medium/1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1143-longest-common-subsequence.cpp",
+          "path": "Medium/1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
+          "sha": "bb5a8364aa1b8bdd39b387ea02cca303a7540eef",
+          "lastSyncedAt": "2026-07-23T18:42:07.439Z"
         }
       ]
     },
