@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-22T18:55:36.143Z",
+  "updatedAt": "2026-07-23T14:48:32.785Z",
   "problems": [
     {
       "frontendId": "37",
@@ -323,6 +323,26 @@
           "path": "Medium/0881-boats-to-save-people/0881-boats-to-save-people.cpp",
           "sha": "9977b3795f49205103d9433e448c81482850fc1c",
           "lastSyncedAt": "2026-07-11T13:11:27.182Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "problemName": "0918-maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "folderPath": "Medium/0918-maximum-sum-circular-subarray/",
+      "readmePath": "Medium/0918-maximum-sum-circular-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0918-maximum-sum-circular-subarray.cpp",
+          "path": "Medium/0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.cpp",
+          "sha": "67366bba22a58e804bc5c1c5fc07b6bedd61369a",
+          "lastSyncedAt": "2026-07-23T14:48:32.785Z"
         }
       ]
     },
