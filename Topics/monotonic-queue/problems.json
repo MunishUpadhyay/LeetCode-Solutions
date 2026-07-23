@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-queue",
+    "name": "Monotonic Queue"
+  },
+  "updatedAt": "2026-07-23T14:48:32.785Z",
+  "problems": [
+    {
+      "frontendId": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "problemName": "0918-maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "folderPath": "Medium/0918-maximum-sum-circular-subarray/",
+      "readmePath": "Medium/0918-maximum-sum-circular-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0918-maximum-sum-circular-subarray.cpp",
+          "path": "Medium/0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.cpp",
+          "sha": "67366bba22a58e804bc5c1c5fc07b6bedd61369a",
+          "lastSyncedAt": "2026-07-23T14:48:32.785Z"
+        }
+      ]
+    }
+  ]
+}
