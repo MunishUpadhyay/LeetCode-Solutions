@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-23T18:42:07.439Z",
+  "updatedAt": "2026-07-24T21:58:15.296Z",
   "problems": [
     {
       "frontendId": "179",
@@ -63,6 +63,26 @@
           "path": "Easy/0500-keyboard-row/0500-keyboard-row.cpp",
           "sha": "167dba365c15b5a266a855daeacc0d0627735b98",
           "lastSyncedAt": "2026-07-11T13:09:38.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "Medium/0516-longest-palindromic-subsequence/",
+      "readmePath": "Medium/0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0516-longest-palindromic-subsequence.cpp",
+          "path": "Medium/0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.cpp",
+          "sha": "d4ee297e65f3bd3406f3b92034d2224eb817e66f",
+          "lastSyncedAt": "2026-07-24T21:58:15.296Z"
         }
       ]
     },
