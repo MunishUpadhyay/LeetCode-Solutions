@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 10 | 22 | 6 |
+| 42 | 10 | 26 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 28 |
+| 7 days | 9 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-08 | 1 |
-| 2026-07-09 | 1 |
-| 2026-07-11 | 1 |
 | 2026-07-12 | 4 |
 | 2026-07-13 | 2 |
 | 2026-07-14 | 2 |
@@ -28,28 +25,31 @@ Contains topicwise list of solved problems.
 | 2026-07-20 | 1 |
 | 2026-07-21 | 1 |
 | 2026-07-22 | 2 |
-| 2026-07-23 | 1 |
+| 2026-07-23 | 2 |
+| 2026-07-24 | 1 |
+| 2026-07-25 | 1 |
+| 2026-07-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 63% |
-| Greedy | 12 | 32% |
-| Math | 9 | 24% |
-| Backtracking | 8 | 21% |
-| Sorting | 8 | 21% |
-| String | 8 | 21% |
-| Hash Table | 7 | 18% |
-| Dynamic Programming | 5 | 13% |
-| Prefix Sum | 5 | 13% |
-| Counting | 4 | 11% |
+| Array | 25 | 60% |
+| Greedy | 12 | 29% |
+| Math | 10 | 24% |
+| String | 10 | 24% |
+| Backtracking | 8 | 19% |
+| Dynamic Programming | 8 | 19% |
+| Sorting | 8 | 19% |
+| Hash Table | 7 | 17% |
+| Prefix Sum | 5 | 12% |
+| Counting | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -60,24 +60,26 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Greedy](Topics/greedy/) | 12 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 10 |
+| [Linked List](Topics/linked-list/) | 2 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
+| [Monotonic Queue](Topics/monotonic-queue/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 8 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 7 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
