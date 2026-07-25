@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-24T21:58:15.296Z",
+  "updatedAt": "2026-07-25T21:59:04.470Z",
   "problems": [
     {
       "frontendId": "179",
@@ -103,6 +103,26 @@
           "path": "Easy/0680-valid-palindrome-ii/0680-valid-palindrome-ii.cpp",
           "sha": "10960b80624a1732b60fe4cb73ab11c345437b45",
           "lastSyncedAt": "2026-07-11T13:11:37.034Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1092",
+      "title": "Shortest Common Supersequence ",
+      "slug": "shortest-common-supersequence",
+      "problemName": "1092-shortest-common-supersequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "folderPath": "Hard/1092-shortest-common-supersequence/",
+      "readmePath": "Hard/1092-shortest-common-supersequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1092-shortest-common-supersequence.cpp",
+          "path": "Hard/1092-shortest-common-supersequence/1092-shortest-common-supersequence.cpp",
+          "sha": "66c08938a10dd12c38b45919811b904dcde17474",
+          "lastSyncedAt": "2026-07-25T21:59:04.470Z"
         }
       ]
     },
