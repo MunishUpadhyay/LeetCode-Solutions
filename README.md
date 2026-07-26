@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 10 | 26 | 7 |
+| 44 | 11 | 26 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 9 days | 31 |
+| 8 days | 9 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-12 | 4 |
 | 2026-07-13 | 2 |
 | 2026-07-14 | 2 |
 | 2026-07-15 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-07-24 | 1 |
 | 2026-07-25 | 1 |
 | 2026-07-26 | 2 |
+| 2026-07-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 58% |
-| Greedy | 12 | 28% |
-| String | 11 | 26% |
-| Math | 10 | 23% |
-| Dynamic Programming | 9 | 21% |
-| Backtracking | 8 | 19% |
-| Sorting | 8 | 19% |
+| Array | 26 | 59% |
+| Greedy | 12 | 27% |
+| Math | 11 | 25% |
+| String | 11 | 25% |
+| Dynamic Programming | 9 | 20% |
+| Sorting | 9 | 20% |
+| Backtracking | 8 | 18% |
 | Hash Table | 7 | 16% |
-| Prefix Sum | 5 | 12% |
+| Prefix Sum | 5 | 11% |
 | Counting | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 2 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Queue](Topics/monotonic-queue/) | 1 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 10 |
 | [Tree](Topics/tree/) | 2 |
