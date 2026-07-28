@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 11 | 26 | 7 |
+| 45 | 11 | 26 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 9 days | 32 |
+| 9 days | 9 days | 33 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-13 | 2 |
 | 2026-07-14 | 2 |
 | 2026-07-15 | 1 |
 | 2026-07-16 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-07-25 | 1 |
 | 2026-07-26 | 2 |
 | 2026-07-27 | 1 |
+| 2026-07-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 59% |
+| Array | 26 | 58% |
 | Greedy | 12 | 27% |
-| Math | 11 | 25% |
-| String | 11 | 25% |
-| Dynamic Programming | 9 | 20% |
+| String | 12 | 27% |
+| Math | 11 | 24% |
+| Dynamic Programming | 10 | 22% |
 | Sorting | 9 | 20% |
 | Backtracking | 8 | 18% |
 | Hash Table | 7 | 16% |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Greedy](Topics/greedy/) | 12 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
