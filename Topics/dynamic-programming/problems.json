@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-25T21:59:04.470Z",
+  "updatedAt": "2026-07-28T14:38:56.851Z",
   "problems": [
     {
       "frontendId": "131",
@@ -183,6 +183,26 @@
           "path": "Medium/1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
           "sha": "bb5a8364aa1b8bdd39b387ea02cca303a7540eef",
           "lastSyncedAt": "2026-07-23T18:42:07.439Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1312",
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+      "problemName": "1312-minimum-insertion-steps-to-make-a-string-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+      "folderPath": "Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/",
+      "readmePath": "Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
+          "path": "Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/1312-minimum-insertion-steps-to-make-a-string-palindrome.cpp",
+          "sha": "3af2a9b204e121a0bf82b77ca57949721f8344a1",
+          "lastSyncedAt": "2026-07-28T14:38:56.851Z"
         }
       ]
     }
