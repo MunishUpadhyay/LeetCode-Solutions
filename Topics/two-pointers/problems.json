@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-07-16T20:13:19.451Z",
+  "updatedAt": "2026-07-29T19:42:35.530Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "Medium/0005-longest-palindromic-substring/",
+      "readmePath": "Medium/0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0005-longest-palindromic-substring.cpp",
+          "path": "Medium/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
+          "sha": "edf6e7168c4975be4f8b67bf11aad722dbb15ddd",
+          "lastSyncedAt": "2026-07-29T19:42:35.530Z"
+        }
+      ]
+    },
     {
       "frontendId": "680",
       "title": "Valid Palindrome II",
