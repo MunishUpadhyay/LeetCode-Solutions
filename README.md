@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 11 | 27 | 8 |
+| 47 | 11 | 28 | 8 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-07-26 | 2 |
 | 2026-07-27 | 1 |
 | 2026-07-28 | 1 |
-| 2026-07-30 | 1 |
+| 2026-07-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 57% |
+| Array | 26 | 55% |
 | String | 13 | 28% |
 | Greedy | 12 | 26% |
-| Dynamic Programming | 11 | 24% |
-| Math | 11 | 24% |
-| Sorting | 9 | 20% |
+| Dynamic Programming | 11 | 23% |
+| Math | 11 | 23% |
+| Sorting | 9 | 19% |
 | Backtracking | 8 | 17% |
 | Hash Table | 7 | 15% |
 | Prefix Sum | 5 | 11% |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 2 |
