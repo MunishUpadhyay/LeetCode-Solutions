@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-07-21T20:53:22.333Z",
+  "updatedAt": "2026-07-30T17:42:57.630Z",
   "problems": [
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "Medium/0024-swap-nodes-in-pairs/",
+      "readmePath": "Medium/0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0024-swap-nodes-in-pairs.cpp",
+          "path": "Medium/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
+          "sha": "df917fe89aa877ad4a02796669010e6fe1742377",
+          "lastSyncedAt": "2026-07-30T17:42:57.630Z"
+        }
+      ]
+    },
     {
       "frontendId": "60",
       "title": "Permutation Sequence",
