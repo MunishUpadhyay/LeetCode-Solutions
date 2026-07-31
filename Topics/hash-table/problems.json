@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-17T16:48:16.114Z",
+  "updatedAt": "2026-07-31T18:39:05.647Z",
   "problems": [
     {
       "frontendId": "37",
@@ -83,6 +83,26 @@
           "path": "Easy/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
           "sha": "e8bbe3bc548c371d3cdf9b81f4baa4d6f197d58e",
           "lastSyncedAt": "2026-07-11T13:10:18.422Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "Medium/3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "Medium/3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "path": "Medium/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.cpp",
+          "sha": "81a6fe79c2fbf36f53ec49df80d1a5981b21759d",
+          "lastSyncedAt": "2026-07-31T18:39:05.647Z"
         }
       ]
     },
