@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-31T18:39:05.647Z",
+  "updatedAt": "2026-08-01T22:00:52.427Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "Medium/0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
           "sha": "edf6e7168c4975be4f8b67bf11aad722dbb15ddd",
           "lastSyncedAt": "2026-07-29T19:42:35.530Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "132",
+      "title": "Palindrome Partitioning II",
+      "slug": "palindrome-partitioning-ii",
+      "problemName": "0132-palindrome-partitioning-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "folderPath": "Hard/0132-palindrome-partitioning-ii/",
+      "readmePath": "Hard/0132-palindrome-partitioning-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0132-palindrome-partitioning-ii.cpp",
+          "path": "Hard/0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.cpp",
+          "sha": "6e6178f6c740611da5bdf6f5f25c15c27b0a7a6b",
+          "lastSyncedAt": "2026-08-01T22:00:52.427Z"
         }
       ]
     },
