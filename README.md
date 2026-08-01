@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 11 | 28 | 8 |
+| 49 | 11 | 29 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 34 |
+| 2 days | 9 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-15 | 1 |
-| 2026-07-16 | 1 |
 | 2026-07-17 | 2 |
 | 2026-07-18 | 1 |
 | 2026-07-20 | 1 |
@@ -29,21 +27,23 @@ Contains topicwise list of solved problems.
 | 2026-07-27 | 1 |
 | 2026-07-28 | 1 |
 | 2026-07-30 | 2 |
+| 2026-08-01 | 1 |
+| 2026-08-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 55% |
-| String | 13 | 28% |
-| Greedy | 12 | 26% |
-| Dynamic Programming | 11 | 23% |
-| Math | 11 | 23% |
-| Sorting | 9 | 19% |
-| Backtracking | 8 | 17% |
-| Hash Table | 7 | 15% |
-| Prefix Sum | 5 | 11% |
-| Counting | 4 | 9% |
+| Array | 26 | 53% |
+| String | 15 | 31% |
+| Greedy | 13 | 27% |
+| Dynamic Programming | 12 | 24% |
+| Math | 11 | 22% |
+| Sorting | 10 | 20% |
+| Backtracking | 8 | 16% |
+| Hash Table | 8 | 16% |
+| Counting | 5 | 10% |
+| Prefix Sum | 5 | 10% |
 
 ## Topics
 
@@ -56,15 +56,15 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 4 |
+| [Counting](Topics/counting/) | 5 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
-| [Greedy](Topics/greedy/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Greedy](Topics/greedy/) | 13 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 3 |
 | [Math](Topics/math/) | 12 |
@@ -77,9 +77,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
