@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-08-02T16:42:07.081Z",
+  "problems": [
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "Medium/1291-sequential-digits/",
+      "readmePath": "Medium/1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1291-sequential-digits.cpp",
+          "path": "Medium/1291-sequential-digits/1291-sequential-digits.cpp",
+          "sha": "03e591a76bc01431ae2a7ceba421badedf07947d",
+          "lastSyncedAt": "2026-08-02T16:42:07.081Z"
+        }
+      ]
+    }
+  ]
+}
