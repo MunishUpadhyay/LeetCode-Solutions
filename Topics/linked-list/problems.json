@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-30T17:42:57.630Z",
+  "updatedAt": "2026-08-03T19:03:24.434Z",
   "problems": [
     {
       "frontendId": "24",
@@ -23,6 +23,26 @@
           "path": "Medium/0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.cpp",
           "sha": "df917fe89aa877ad4a02796669010e6fe1742377",
           "lastSyncedAt": "2026-07-30T17:42:57.630Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "Medium/0092-reverse-linked-list-ii/",
+      "readmePath": "Medium/0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0092-reverse-linked-list-ii.cpp",
+          "path": "Medium/0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.cpp",
+          "sha": "f12dffce8a29e4cebf4276c59a9b99ed1f5a073d",
+          "lastSyncedAt": "2026-08-03T19:03:24.434Z"
         }
       ]
     },
