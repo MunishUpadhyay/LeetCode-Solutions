@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 11 | 29 | 9 |
+| 51 | 11 | 31 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 36 |
+| 1 days | 9 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-17 | 2 |
 | 2026-07-18 | 1 |
 | 2026-07-20 | 1 |
 | 2026-07-21 | 1 |
@@ -28,15 +27,16 @@ Contains topicwise list of solved problems.
 | 2026-07-28 | 1 |
 | 2026-07-30 | 2 |
 | 2026-08-01 | 1 |
-| 2026-08-02 | 1 |
+| 2026-08-02 | 2 |
+| 2026-08-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 53% |
-| String | 15 | 31% |
-| Greedy | 13 | 27% |
+| Array | 26 | 51% |
+| String | 15 | 29% |
+| Greedy | 13 | 25% |
 | Dynamic Programming | 12 | 24% |
 | Math | 11 | 22% |
 | Sorting | 10 | 20% |
@@ -62,11 +62,12 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Greedy](Topics/greedy/) | 13 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
