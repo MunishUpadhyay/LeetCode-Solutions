@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-07-22T18:55:36.143Z",
+  "updatedAt": "2026-08-04T19:35:21.187Z",
   "problems": [
     {
       "frontendId": "112",
@@ -23,6 +23,26 @@
           "path": "Easy/0112-path-sum/0112-path-sum.cpp",
           "sha": "a7bc48a29a1c1cd41d620d91f43227c952fdeb52",
           "lastSyncedAt": "2026-07-11T13:10:08.269Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "116",
+      "title": "Populating Next Right Pointers in Each Node",
+      "slug": "populating-next-right-pointers-in-each-node",
+      "problemName": "0116-populating-next-right-pointers-in-each-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+      "folderPath": "Medium/0116-populating-next-right-pointers-in-each-node/",
+      "readmePath": "Medium/0116-populating-next-right-pointers-in-each-node/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0116-populating-next-right-pointers-in-each-node.cpp",
+          "path": "Medium/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.cpp",
+          "sha": "151b9a794b74f09ae0752710554e0a9333f351c6",
+          "lastSyncedAt": "2026-08-04T19:35:21.187Z"
         }
       ]
     },
