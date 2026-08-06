@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-05T17:08:03.102Z",
+  "updatedAt": "2026-08-06T18:58:52.829Z",
   "problems": [
     {
       "frontendId": "37",
@@ -323,6 +323,26 @@
           "path": "Easy/0705-design-hashset/0705-design-hashset.cpp",
           "sha": "377a54451ee4d13de6327949951adbc0a99b1ca7",
           "lastSyncedAt": "2026-07-11T13:08:47.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "718",
+      "title": "Maximum Length of Repeated Subarray",
+      "slug": "maximum-length-of-repeated-subarray",
+      "problemName": "0718-maximum-length-of-repeated-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+      "folderPath": "Medium/0718-maximum-length-of-repeated-subarray/",
+      "readmePath": "Medium/0718-maximum-length-of-repeated-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0718-maximum-length-of-repeated-subarray.cpp",
+          "path": "Medium/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.cpp",
+          "sha": "7e8d3c53d8685839308fec541ff33c3af147a6ab",
+          "lastSyncedAt": "2026-08-06T18:58:52.829Z"
         }
       ]
     },
