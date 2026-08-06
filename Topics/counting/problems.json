@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-31T18:39:05.647Z",
+  "updatedAt": "2026-08-06T21:30:36.606Z",
   "problems": [
+    {
+      "frontendId": "299",
+      "title": "Bulls and Cows",
+      "slug": "bulls-and-cows",
+      "problemName": "0299-bulls-and-cows",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+      "folderPath": "Medium/0299-bulls-and-cows/",
+      "readmePath": "Medium/0299-bulls-and-cows/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0299-bulls-and-cows.cpp",
+          "path": "Medium/0299-bulls-and-cows/0299-bulls-and-cows.cpp",
+          "sha": "b3edafcf2b87069535885dffd0be3e51ceab2242",
+          "lastSyncedAt": "2026-08-06T21:30:36.606Z"
+        }
+      ]
+    },
     {
       "frontendId": "945",
       "title": "Minimum Increment to Make Array Unique",
