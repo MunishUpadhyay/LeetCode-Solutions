@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window"
+  },
+  "updatedAt": "2026-08-06T18:58:52.829Z",
+  "problems": [
+    {
+      "frontendId": "718",
+      "title": "Maximum Length of Repeated Subarray",
+      "slug": "maximum-length-of-repeated-subarray",
+      "problemName": "0718-maximum-length-of-repeated-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/",
+      "folderPath": "Medium/0718-maximum-length-of-repeated-subarray/",
+      "readmePath": "Medium/0718-maximum-length-of-repeated-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0718-maximum-length-of-repeated-subarray.cpp",
+          "path": "Medium/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.cpp",
+          "sha": "7e8d3c53d8685839308fec541ff33c3af147a6ab",
+          "lastSyncedAt": "2026-08-06T18:58:52.829Z"
+        }
+      ]
+    }
+  ]
+}
