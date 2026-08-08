@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-06T18:58:52.829Z",
+  "updatedAt": "2026-08-08T17:02:15.613Z",
   "problems": [
+    {
+      "frontendId": "668",
+      "title": "Kth Smallest Number in Multiplication Table",
+      "slug": "kth-smallest-number-in-multiplication-table",
+      "problemName": "0668-kth-smallest-number-in-multiplication-table",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+      "folderPath": "Hard/0668-kth-smallest-number-in-multiplication-table/",
+      "readmePath": "Hard/0668-kth-smallest-number-in-multiplication-table/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0668-kth-smallest-number-in-multiplication-table.cpp",
+          "path": "Hard/0668-kth-smallest-number-in-multiplication-table/0668-kth-smallest-number-in-multiplication-table.cpp",
+          "sha": "e87b7b6db690a9e03c4028469920923061b07e7d",
+          "lastSyncedAt": "2026-08-08T17:02:15.613Z"
+        }
+      ]
+    },
     {
       "frontendId": "718",
       "title": "Maximum Length of Repeated Subarray",
