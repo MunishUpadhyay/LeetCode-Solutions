@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-04T19:35:21.187Z",
+  "updatedAt": "2026-08-09T19:26:09.638Z",
   "problems": [
     {
       "frontendId": "24",
@@ -63,6 +63,26 @@
           "path": "Medium/0116-populating-next-right-pointers-in-each-node/0116-populating-next-right-pointers-in-each-node.cpp",
           "sha": "151b9a794b74f09ae0752710554e0a9333f351c6",
           "lastSyncedAt": "2026-08-04T19:35:21.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "Medium/0445-add-two-numbers-ii/",
+      "readmePath": "Medium/0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0445-add-two-numbers-ii.cpp",
+          "path": "Medium/0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
+          "sha": "f4fcc3fa458e8565cb1e0dc3dee7f63f4da9406e",
+          "lastSyncedAt": "2026-08-09T19:26:09.638Z"
         }
       ]
     },
