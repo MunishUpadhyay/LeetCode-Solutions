@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-06T18:58:52.829Z",
+  "updatedAt": "2026-08-10T22:26:44.809Z",
   "problems": [
     {
       "frontendId": "37",
@@ -343,6 +343,26 @@
           "path": "Medium/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.cpp",
           "sha": "7e8d3c53d8685839308fec541ff33c3af147a6ab",
           "lastSyncedAt": "2026-08-06T18:58:52.829Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "Medium/0739-daily-temperatures/",
+      "readmePath": "Medium/0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0739-daily-temperatures.cpp",
+          "path": "Medium/0739-daily-temperatures/0739-daily-temperatures.cpp",
+          "sha": "bedb97eb75915b9897a2f838f6f884e1573fa34d",
+          "lastSyncedAt": "2026-08-10T22:26:44.809Z"
         }
       ]
     },
