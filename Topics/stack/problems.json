@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-09T19:26:09.638Z",
+  "updatedAt": "2026-08-10T22:26:44.809Z",
   "problems": [
     {
       "frontendId": "224",
@@ -43,6 +43,26 @@
           "path": "Medium/0445-add-two-numbers-ii/0445-add-two-numbers-ii.cpp",
           "sha": "f4fcc3fa458e8565cb1e0dc3dee7f63f4da9406e",
           "lastSyncedAt": "2026-08-09T19:26:09.638Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "Medium/0739-daily-temperatures/",
+      "readmePath": "Medium/0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0739-daily-temperatures.cpp",
+          "path": "Medium/0739-daily-temperatures/0739-daily-temperatures.cpp",
+          "sha": "bedb97eb75915b9897a2f838f6f884e1573fa34d",
+          "lastSyncedAt": "2026-08-10T22:26:44.809Z"
         }
       ]
     },
