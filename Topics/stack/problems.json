@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-10T22:26:44.809Z",
+  "updatedAt": "2026-08-11T16:43:19.976Z",
   "problems": [
     {
       "frontendId": "224",
@@ -63,6 +63,26 @@
           "path": "Medium/0739-daily-temperatures/0739-daily-temperatures.cpp",
           "sha": "bedb97eb75915b9897a2f838f6f884e1573fa34d",
           "lastSyncedAt": "2026-08-10T22:26:44.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1019",
+      "title": "Next Greater Node In Linked List",
+      "slug": "next-greater-node-in-linked-list",
+      "problemName": "1019-next-greater-node-in-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+      "folderPath": "Medium/1019-next-greater-node-in-linked-list/",
+      "readmePath": "Medium/1019-next-greater-node-in-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1019-next-greater-node-in-linked-list.cpp",
+          "path": "Medium/1019-next-greater-node-in-linked-list/1019-next-greater-node-in-linked-list.cpp",
+          "sha": "06a9679bd2db2aa01654a249dbb8e990116aa71b",
+          "lastSyncedAt": "2026-08-11T16:43:19.976Z"
         }
       ]
     },
