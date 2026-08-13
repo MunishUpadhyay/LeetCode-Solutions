@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-12T19:25:50.055Z",
+  "updatedAt": "2026-08-13T18:50:20.130Z",
   "problems": [
+    {
+      "frontendId": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "problemName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+      "folderPath": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/",
+      "readmePath": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0395-longest-substring-with-at-least-k-repeating-characters.cpp",
+          "path": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.cpp",
+          "sha": "dfdcd0154c7e2ad20d2faf02e6a60ebb3d8ddc5e",
+          "lastSyncedAt": "2026-08-13T18:50:20.130Z"
+        }
+      ]
+    },
     {
       "frontendId": "718",
       "title": "Maximum Length of Repeated Subarray",
