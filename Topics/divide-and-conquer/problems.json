@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-07-23T14:48:32.785Z",
+  "updatedAt": "2026-08-13T18:50:20.130Z",
   "problems": [
     {
       "frontendId": "324",
@@ -23,6 +23,26 @@
           "path": "Medium/0324-wiggle-sort-ii/0324-wiggle-sort-ii.cpp",
           "sha": "d7e7d4e81826ac0cb6be7db1a4e252cf69e5a86e",
           "lastSyncedAt": "2026-07-11T13:10:39.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "problemName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+      "folderPath": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/",
+      "readmePath": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0395-longest-substring-with-at-least-k-repeating-characters.cpp",
+          "path": "Medium/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.cpp",
+          "sha": "dfdcd0154c7e2ad20d2faf02e6a60ebb3d8ddc5e",
+          "lastSyncedAt": "2026-08-13T18:50:20.130Z"
         }
       ]
     },
