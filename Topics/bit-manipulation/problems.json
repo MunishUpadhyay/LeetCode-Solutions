@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-07-12T16:24:55.255Z",
+  "updatedAt": "2026-08-15T18:45:30.920Z",
   "problems": [
     {
       "frontendId": "90",
@@ -23,6 +23,26 @@
           "path": "Medium/0090-subsets-ii/0090-subsets-ii.cpp",
           "sha": "7b4b92a390525862cd149248d27ea9a13aadc295",
           "lastSyncedAt": "2026-07-12T16:24:55.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3702",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "folderPath": "Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "path": "Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "sha": "8e28f590932e628b68904266058be2d080cda0bd",
+          "lastSyncedAt": "2026-08-15T18:45:30.920Z"
         }
       ]
     }
