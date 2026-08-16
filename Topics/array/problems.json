@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T18:45:30.920Z",
+  "updatedAt": "2026-08-16T17:11:06.176Z",
   "problems": [
     {
       "frontendId": "37",
@@ -443,6 +443,26 @@
           "path": "Medium/1019-next-greater-node-in-linked-list/1019-next-greater-node-in-linked-list.cpp",
           "sha": "06a9679bd2db2aa01654a249dbb8e990116aa71b",
           "lastSyncedAt": "2026-08-11T16:43:19.976Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "Easy/1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "Easy/1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
+          "path": "Easy/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
+          "sha": "5c79f29b4d68281954cf9cc81270296b978e7d6c",
+          "lastSyncedAt": "2026-08-16T17:11:06.176Z"
         }
       ]
     },
