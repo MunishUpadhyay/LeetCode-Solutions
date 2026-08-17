@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-16T17:11:06.176Z",
+  "updatedAt": "2026-08-17T18:46:30.607Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "Medium/0016-3sum-closest/",
+      "readmePath": "Medium/0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0016-3sum-closest.cpp",
+          "path": "Medium/0016-3sum-closest/0016-3sum-closest.cpp",
+          "sha": "98067083193e2f0bdd96b74b8d255610e1f75ceb",
+          "lastSyncedAt": "2026-08-17T18:46:30.607Z"
+        }
+      ]
+    },
     {
       "frontendId": "37",
       "title": "Sudoku Solver",
