@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "geometry",
+    "name": "Geometry"
+  },
+  "updatedAt": "2026-08-18T19:28:18.928Z",
+  "problems": [
+    {
+      "frontendId": "391",
+      "title": "Perfect Rectangle",
+      "slug": "perfect-rectangle",
+      "problemName": "0391-perfect-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle/",
+      "folderPath": "Hard/0391-perfect-rectangle/",
+      "readmePath": "Hard/0391-perfect-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0391-perfect-rectangle.cpp",
+          "path": "Hard/0391-perfect-rectangle/0391-perfect-rectangle.cpp",
+          "sha": "f7d23d9b35ecba39fd3b9c3629a82a036c984b46",
+          "lastSyncedAt": "2026-08-18T19:28:18.928Z"
+        }
+      ]
+    }
+  ]
+}
