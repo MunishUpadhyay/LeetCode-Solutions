@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T18:46:30.607Z",
+  "updatedAt": "2026-08-18T19:28:18.928Z",
   "problems": [
     {
       "frontendId": "16",
@@ -223,6 +223,26 @@
           "path": "Hard/0330-patching-array/0330-patching-array.cpp",
           "sha": "5373e16ad7a1623a03f6a37ae6b538043336adca",
           "lastSyncedAt": "2026-07-13T19:24:10.104Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "391",
+      "title": "Perfect Rectangle",
+      "slug": "perfect-rectangle",
+      "problemName": "0391-perfect-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle/",
+      "folderPath": "Hard/0391-perfect-rectangle/",
+      "readmePath": "Hard/0391-perfect-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0391-perfect-rectangle.cpp",
+          "path": "Hard/0391-perfect-rectangle/0391-perfect-rectangle.cpp",
+          "sha": "f7d23d9b35ecba39fd3b9c3629a82a036c984b46",
+          "lastSyncedAt": "2026-08-18T19:28:18.928Z"
         }
       ]
     },
