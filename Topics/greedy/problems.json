@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-31T18:39:05.647Z",
+  "updatedAt": "2026-08-19T18:41:01.467Z",
   "problems": [
     {
       "frontendId": "179",
@@ -143,6 +143,26 @@
           "path": "Easy/1323-maximum-69-number/1323-maximum-69-number.cpp",
           "sha": "16c0efa80f844fa02b0b85ba6db079f3e093ac56",
           "lastSyncedAt": "2026-07-11T13:11:11.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "Medium/1386-cinema-seat-allocation/",
+      "readmePath": "Medium/1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1386-cinema-seat-allocation.cpp",
+          "path": "Medium/1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
+          "sha": "44ec250e4982b28de63332162c8bded7d08cbba6",
+          "lastSyncedAt": "2026-08-19T18:41:01.467Z"
         }
       ]
     },
