@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search-tree",
+    "name": "Binary Search Tree"
+  },
+  "updatedAt": "2026-08-20T19:00:39.602Z",
+  "problems": [
+    {
+      "frontendId": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "problemName": "0109-convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+      "folderPath": "Medium/0109-convert-sorted-list-to-binary-search-tree/",
+      "readmePath": "Medium/0109-convert-sorted-list-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0109-convert-sorted-list-to-binary-search-tree.cpp",
+          "path": "Medium/0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.cpp",
+          "sha": "6385ac0d1f196745cb04e7d9bee6ca6be8d391ea",
+          "lastSyncedAt": "2026-08-20T19:00:39.602Z"
+        }
+      ]
+    }
+  ]
+}
