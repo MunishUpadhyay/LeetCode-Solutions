@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T18:41:01.467Z",
+  "updatedAt": "2026-08-21T19:06:31.106Z",
   "problems": [
     {
       "frontendId": "16",
@@ -443,6 +443,26 @@
           "path": "Medium/0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.cpp",
           "sha": "67366bba22a58e804bc5c1c5fc07b6bedd61369a",
           "lastSyncedAt": "2026-07-23T14:48:32.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "941",
+      "title": "Valid Mountain Array",
+      "slug": "valid-mountain-array",
+      "problemName": "0941-valid-mountain-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-mountain-array/",
+      "folderPath": "Easy/0941-valid-mountain-array/",
+      "readmePath": "Easy/0941-valid-mountain-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0941-valid-mountain-array.cpp",
+          "path": "Easy/0941-valid-mountain-array/0941-valid-mountain-array.cpp",
+          "sha": "fba8c4acbc4a8f0a14d9e162d6bf36822fd28208",
+          "lastSyncedAt": "2026-08-21T19:06:31.106Z"
         }
       ]
     },
