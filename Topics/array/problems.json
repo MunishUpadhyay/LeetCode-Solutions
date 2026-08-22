@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T19:06:31.106Z",
+  "updatedAt": "2026-08-22T20:55:54.736Z",
   "problems": [
     {
       "frontendId": "16",
@@ -643,6 +643,26 @@
           "path": "Easy/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.cpp",
           "sha": "51ced3040aeb62ab964b93a9e87a173b4e02b89f",
           "lastSyncedAt": "2026-07-11T13:11:01.356Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2401",
+      "title": "Longest Nice Subarray",
+      "slug": "longest-nice-subarray",
+      "problemName": "2401-longest-nice-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-subarray/",
+      "folderPath": "Medium/2401-longest-nice-subarray/",
+      "readmePath": "Medium/2401-longest-nice-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2401-longest-nice-subarray.cpp",
+          "path": "Medium/2401-longest-nice-subarray/2401-longest-nice-subarray.cpp",
+          "sha": "bb95f62fc3e71a8fd842968aa7c36cda004dd7d1",
+          "lastSyncedAt": "2026-08-22T20:55:54.736Z"
         }
       ]
     },
