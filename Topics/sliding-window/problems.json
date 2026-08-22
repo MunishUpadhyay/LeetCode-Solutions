@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-14T22:04:40.756Z",
+  "updatedAt": "2026-08-22T20:55:54.736Z",
   "problems": [
     {
       "frontendId": "395",
@@ -43,6 +43,26 @@
           "path": "Medium/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.cpp",
           "sha": "7e8d3c53d8685839308fec541ff33c3af147a6ab",
           "lastSyncedAt": "2026-08-06T18:58:52.829Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2401",
+      "title": "Longest Nice Subarray",
+      "slug": "longest-nice-subarray",
+      "problemName": "2401-longest-nice-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-subarray/",
+      "folderPath": "Medium/2401-longest-nice-subarray/",
+      "readmePath": "Medium/2401-longest-nice-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2401-longest-nice-subarray.cpp",
+          "path": "Medium/2401-longest-nice-subarray/2401-longest-nice-subarray.cpp",
+          "sha": "bb95f62fc3e71a8fd842968aa7c36cda004dd7d1",
+          "lastSyncedAt": "2026-08-22T20:55:54.736Z"
         }
       ]
     },
